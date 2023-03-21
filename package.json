@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --output-path docs --base-href /hbd-to-you/",
+    "build": "ng build --output-path docs --base-href /hbd-to-u/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
